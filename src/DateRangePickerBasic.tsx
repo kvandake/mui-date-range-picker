@@ -1,4 +1,3 @@
-import React from "react";
 import { DateRangePicker, DateRangeProps } from ".";
 
 type BasicPickerPropsWithFooter = DateRangeProps;
